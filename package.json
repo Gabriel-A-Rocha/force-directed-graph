@@ -1,0 +1,7 @@
+{
+  "name": "force-directed-graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel-A-Rocha <gabriel.altair.rocha@gmail.com>",
+  "license": "MIT"
+}
