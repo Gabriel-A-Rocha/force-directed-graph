@@ -1,4 +1,7 @@
-import "./lib/d3/d3.min.js";
-import "./lib/d3-force/d3-force.min.js";
+import d3 from "d3";
 
 console.log("Script started.");
+
+const newDay = utcDay;
+
+console.log(newDay);

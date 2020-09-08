@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Gabriel-A-Rocha <gabriel.altair.rocha@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^6.1.1"
+  },
+  "devDependencies": {
+    "@types/d3": "^5.7.2"
+  }
 }
